@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 I am Satyam.
 
 I’m an electrical engineering student, mathematics enthusiast and low-level programming fan. I’m fascinated by how things work under the hood and love exploring things all the way down to the transistor level.  My GitHub handle reflects my love for Rust and systems programming.  
