@@ -1,16 +1,28 @@
 ## Hi there 👋
+I am Satyam.
 
-<!--
-**rusty-satyam/rusty-satyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an electrical engineering student, mathematics enthusiast and low-level programming fan. I’m fascinated by how things work under the hood and love exploring things all the way down to the transistor level.  My GitHub handle reflects my love for Rust and systems programming.  
 
-Here are some ideas to get you started:
+I’m skilled in C, C++, Python, Rust, Lua and Verilog and I also work with ROS2 for robotics. I thrive on puzzles and problem-solving. Whether it’s a tricky maths problem, a programming challenge or an engineering puzzle, I love dissecting it and figuring out elegant solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Explore
+Here are some of the fields I’m experienced in and passionate about.
+
+### Electrical Engineering ⚡
+- **Digital Electronics**  
+- **Signal Processing**   
+- **Control Systems**    
+
+### Mathematics 🔢
+- **Combinatorics**  
+- **Graph Theory**
+- **Game Theory** 
+- **Number Theory**  
+- **Statistics**  
+
+### Programming 💻
+- **Low-Level Systems Programming**  
+- **Computer Architecture**  
+- **Operating Systems**   
+
+  
